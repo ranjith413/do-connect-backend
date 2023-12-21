@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.capstone.doconnect.entity.Answers;
 import com.capstone.doconnect.entity.Questions;
 import com.capstone.doconnect.entity.User;
-import com.capstone.doconnect.service.IEmailService;
+//import com.capstone.doconnect.service.IEmailService;
 import com.capstone.doconnect.service.IUserService;
 
 @RestController
@@ -31,8 +31,9 @@ public class UserController {
 	@Autowired
 	IUserService service;
 	
-	@Autowired
-	IEmailService emailService;
+	/*
+	 * @Autowired IEmailService emailService;
+	 */
 
 	@PostMapping("/login")
 	public boolean loginUser(@RequestBody User user) {
@@ -55,14 +56,14 @@ public class UserController {
 	@PostMapping("/askque")
 	public Questions askQuestion(@RequestBody Questions que) {
 		
-		emailService.sendMailWhenQuestion(que.getQue());
+		//emailService.sendMailWhenQuestion(que.getQue());
 		return service.askQuestion(que);
 	}
 
 	@PostMapping("/addAnswer/{qid}")
 	public Answers addAnswers(@RequestBody Answers answers, @PathVariable int qid) {
 		
-		emailService.sendMailWhenAnswered(answers.getAns());
+		//emailService.sendMailWhenAnswered(answers.getAns());
 		
 		return service.addAnswers(answers,qid);
 

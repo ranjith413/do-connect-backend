@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carbide-bongo-406810",
+  "private_key_id": "a68f470b45a3fd3d26da4eb951e31ce18e419587",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFPamTNDYV96O5\noaZA6W0+34L+QJq8U8QnoUT9IM/XXHqkmPlUQI1mOW+AwIasH0rTImCQYJ87pOyJ\naxQAaIT9roUOhI8XRjKPL19CTs3lNO/PZWwPYTevmkrmYonrPU3ytVXuOTjsy08K\noDSC3ni5+DQ1mL7qBGpqbfmFWkxxdtAB5VvstXRMfPMGjqM2TPgtdJK2KHaihRsc\nL48erpzBAf2BYQvXnHlCA2KfDafJ1kzBq8mD89XoAiaxcrjTANXch3DkFQyRNXm6\nx+nK2SAltaef3wgfVofKqIocGavwyigK6hbEym8dg5zw/JWmeO8tK2XWc6FgfveX\nnf8HWuHFAgMBAAECggEAMGh4WHD9fzm2fKZAS/keP0qS9zy63VK/tyw85tUpPYVs\ncj47HyLysS6Sf6qAwvixIA11XqngGr7Y8McPcyQz06ED9fKxvbgUS5EIU5lMrh7m\nZmPReBrXlGkNTerMR6hVm6ZGrz9rCa7COOzlxmK8hYP1qFvTK1MnHPTdww1M6qGb\n/lPnEN3TQuO9aZK489AmdbmJC7PT99e39+xPnwbaF46GIBisgLq00l1+//hvbRdD\nGvNOfAu4/A7CSqAQ/0B68PfxFKq308cn+IUa/OLcBUrDTMdqIIA/lCqL2nxbi8qn\nfJQnGssgNVjuLFCHtzhXPbb7CO7yExYpL/grcYVOFwKBgQD43dgs81TkWfVPv4K/\ns4ae+FjfB9eTiVWA8nQrfL6xNW0oRInVX5jBKmcjbZMVoai9l0Uez6dyuIZkYVQM\nDw5pG/rZ+eARCllQ2kV9IkI8bzP3l2xdyvH/jtXqdAdNUAgJdmjh/QAAazyO7sYO\nS34RihlF25YddYx/SLFm9U4sbwKBgQDK5P6CvEcSJPOXQYmRjRYxxQ1VW/gInAs6\ntHNuuHl+4W4dUa2G/z+8wSRUj5tR0wRHMsQqgvzMnb7GiFRJKItHSW2bvFUb5FWo\ndNY+4moagErZCCRgVnjCky7xm3JyG1DZZdIu/u+SfeVey0iqGpdR8ygDaYVtqrDU\nB6GJK48XCwKBgQDsakMcoKR6sYK7GaFp32/5wM8cQOToQUS61JjLXxwAWFK0ODgA\nPWptxoxoOYXKvOICCZweIwJdlzIEVflz4zG7ZFsvi5LyXTRv/Iqaz1rA8psZj/3g\nNBUkw1ov+b2eEnMwGg6U8LV5sGW9GtOHbOv8WYacuHeo0KyBllsBBfQXfQKBgQCy\n3tkmBridXWhG8+dFI13quK89jpwHcxJPSeDuPsIVwsXiISzbc9IMJTZTOluS8na2\nEiJw3BPkjDkxK+UqrgzD5w8zmgBqW43MulxbCh7CiFH0LkJrkDBcUYe0RvfJcx1+\n205GUkiBHG6HeK3yEQlQnQ6sm22fNjk4ZBXcKUO36wKBgClWyVUDr3gJ8JBr5YCh\njmtl7PKhwzpyS/eQa7b1Z9CebhPavm5lJ64yC7yvDQR7AigHjvR+CuG5NI8e0b3V\nlOmMnzJKJ4cr9Dr7n6epZpKvJJZSFj1sjx0UvmwojSBbLSHb97J9R1iOb4kR2NXd\ndcVyKZ2pQQuRsIuCAeUDcVpc\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-sql-account@carbide-bongo-406810.iam.gserviceaccount.com",
+  "client_id": "116764175425378246084",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-sql-account%40carbide-bongo-406810.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
